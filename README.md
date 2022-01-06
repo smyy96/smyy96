@@ -36,6 +36,7 @@
 <a href="https://www.instagram.com/smyy.cskn/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="4214976" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHhdNxVADKQ_qD1hTiptXEg" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="4214976" height="40" width="40" /></a>
 <a href="https://github.com/smyy96" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="4214976" /></a>
+ <a href="https://app.patika.dev/smyy96" target="blank"><img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="Patika" height="35" width="50" /></a>
 <a href="https://medium.com/@sumeyyecoskun.sc" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="4214976" /></a>
   
   
