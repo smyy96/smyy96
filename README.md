@@ -9,6 +9,7 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
+
 #
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smyy96&&row=1&theme=monokai" alt="smyy96" /></a></p>
 
@@ -39,8 +40,8 @@
  <a href="https://app.patika.dev/smyy96" target="blank"><img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="Patika" height="35" width="50" /></a>
 <a href="https://medium.com/@sumeyyecoskun.sc" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="4214976" /></a>
   
-  
-
+##  
+![](https://komarev.com/ghpvc/?username=smyy96&color=red)
 
 
 
