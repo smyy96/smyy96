@@ -8,8 +8,8 @@
 </p>
 
 <br>
-#
 
+#
 - 🔭 I’m currently working on Patika Frontend Web Development
 - 🌱 I’m currently learning [Asp.Net Core](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci)
 - 📫 How to reach me: sumeyyecoskun.sc@gmail.com
